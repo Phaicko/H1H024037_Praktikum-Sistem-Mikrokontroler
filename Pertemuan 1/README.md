@@ -1,5 +1,5 @@
 # Jawaban dari Pertanyaan pada Modul
-##Percabangan
+## Percabangan
 1.	Lampu akan reset waktu ke awal saat timeDelay sampai 100
 2.	Lampu akan berkedip lebih cepat seiring berkedip sampai kesepuluh kalinya.
 3.	timeDelay berfungsi untuk memberi jeda pada setiap lampu dinyalakan dan dimatikan. 
@@ -26,7 +26,7 @@ void loop() {
     timeDelay = 1000;
     step = -100;}}
 
-##Perulangan
+## Perulangan
 1.	![alt text](<rangkaian 5 led.png>)
 2.	Saat memasuki loop for pertama yang bersifat increment dari pin 2 sampai 7 sehingga lampu menyala berurutan dari kiri ke kanan
 3.	Saat memasuki loop for kedua yang bersifat decrement dari pin 7 sampai 2 sehinga lampu menyala kembali berurutan dari kanan ke kiri
