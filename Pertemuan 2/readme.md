@@ -1,4 +1,5 @@
 # Percobaan 1
+![alt text](<gif percobaan 1.gif>)
 ## Gambarkan rangkaian schematic yang digunakan pada percobaan!
 ![alt text](<schematic percobaan 1.png>)
 ## Apa yang terjadi jika nilai num lebih dari 15?
@@ -56,6 +57,7 @@ void loop() // Fungsi looping yang akan berjalan secara terus-menerus berulang k
 }
 ```
 # Percobaan 2
+![alt text](<gif percobaan 2.gif>)
 ## Gambarkan rangkaian schematic yang digunakan pada percobaan!
 ![alt text](<schematic percobaan 2.png>)
 ## Mengapa pada push button digunakan mode INPUT_PULLUP pada Arduino Uno? Apa keuntungannya dibandingkan rangkaian biasa?
